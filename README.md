@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am Sophie and currently studying xpehd s
+I am Sophie and currently studying computational social science in madrid.
 
 <!--
 **Soph-byte/Soph-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
